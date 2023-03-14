@@ -9,14 +9,14 @@
 * Visual code
 
 ### Must have visual studio plugins
-* [To develop](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
-* [to debug](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
-* [to make sure that last versions of crates are injected](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
+* [Rust-analyzer - To develop](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+* [lldb - to debug](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
+* [crates - to make sure that last versions of crates are injected](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
 
 ### Better to have
-* https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree - To highlight todo!("Implement lines");
-* https://marketplace.visualstudio.com/items?itemName=GitHub.copilot - to boost your productivity
-* https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml - to handle toml file better;
+* [Todo-tree - to highlight todo!("Implement lines")](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+* [Github copilot - to boost your productivity](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) 
+* [Better toml - to handle toml file better](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
 * https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens - to handle errors better;
 * https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker - Not to misspell words;
 * https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks - to hansle bookmarks in code;
