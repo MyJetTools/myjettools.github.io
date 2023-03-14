@@ -8,10 +8,13 @@
 * [Rust itself](https://www.rust-lang.org/tools/install)
 * Visual code
 
+
+
+
 ### Must have visual studio plugins
-* ![Image](https://rust-lang.gallerycdn.vsassets.io/extensions/rust-lang/rust-analyzer/0.4.1436/1678755432954/Microsoft.VisualStudio.Services.Icons.Default)[Rust-analyzer - To develop](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
-* ![Image](https://vadimcn.gallerycdn.vsassets.io/extensions/vadimcn/vscode-lldb/1.9.0/1678521297683/Microsoft.VisualStudio.Services.Icons.Default)[lldb - to debug](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
-* ![Image](https://serayuzgur.gallerycdn.vsassets.io/extensions/serayuzgur/crates/0.5.10/1633510597451/Microsoft.VisualStudio.Services.Icons.Default)[crates - to make sure that last versions of crates are injected](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
+<img src="https://rust-lang.gallerycdn.vsassets.io/extensions/rust-lang/rust-analyzer/0.4.1436/1678755432954/Microsoft.VisualStudio.Services.Icons.Default" width="32" height="32">[Rust-analyzer - To develop](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)<br/>
+<img src="https://vadimcn.gallerycdn.vsassets.io/extensions/vadimcn/vscode-lldb/1.9.0/1678521297683/Microsoft.VisualStudio.Services.Icons.Default" width="32" height="32">[lldb - to debug](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)<br/>
+<img src="https://serayuzgur.gallerycdn.vsassets.io/extensions/serayuzgur/crates/0.5.10/1633510597451/Microsoft.VisualStudio.Services.Icons.Default" width="32" height="32">[crates - to make sure that last versions of crates are injected](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)<br/>
 
 ### Better to have
 * [Todo-tree - to highlight todo!("Implement lines")](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
