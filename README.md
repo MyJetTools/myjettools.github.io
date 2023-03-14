@@ -3,7 +3,7 @@
 
 # Prepare your laptop to Develop in Rust
 
-## First of all
+## First of all - install
 
 * [Rust itself](https://www.rust-lang.org/tools/install)
 * Visual studio code
