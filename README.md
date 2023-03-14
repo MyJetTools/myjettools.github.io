@@ -20,10 +20,10 @@
 * [Todo-tree - to highlight todo!("Implement lines")](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 * [Github copilot - to boost your productivity](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) 
 * [Better toml - to handle toml file better](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
-* https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens - to handle errors better;
-* https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker - Not to misspell words;
-* https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks - to hansle bookmarks in code;
-* https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3 - to handle proto files better;
+* [Error lens - to handle errors better](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+* [Code-spell-checker - Not to misspell words](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+* [Bookmarks - to handle bookmarks in code](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+* [vscode-proto3 - to handle proto files better](https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3)
 
 
 
