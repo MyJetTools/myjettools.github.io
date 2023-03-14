@@ -9,7 +9,7 @@
 * Visual code
 
 ### Must have visual studio plugins
-* [Rust-analyzer - To develop](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+* ![Image](https://rust-lang.gallerycdn.vsassets.io/extensions/rust-lang/rust-analyzer/0.4.1436/1678755432954/Microsoft.VisualStudio.Services.Icons.Default)[Rust-analyzer - To develop](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
 * ![Image](https://vadimcn.gallerycdn.vsassets.io/extensions/vadimcn/vscode-lldb/1.9.0/1678521297683/Microsoft.VisualStudio.Services.Icons.Default)[lldb - to debug](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
 * ![Image](https://serayuzgur.gallerycdn.vsassets.io/extensions/serayuzgur/crates/0.5.10/1633510597451/Microsoft.VisualStudio.Services.Icons.Default)[crates - to make sure that last versions of crates are injected](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
 
