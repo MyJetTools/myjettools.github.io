@@ -44,3 +44,8 @@ if you code does not compile - before you go to blame the person who updates dep
 cargo update
 cargo build
 ```
+
+Sometimes - rust analyzer updates and requires last version of rust tools. If suddenly you see random errors - try to execute
+```bash
+rustup update
+```
