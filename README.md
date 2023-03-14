@@ -10,8 +10,8 @@
 
 ### Must have visual studio plugins
 * [To develop](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
-* https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb - to debug;
-* https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates - to make sure that last versions of crates are injected
+* [to debug](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
+* [to make sure that last versions of crates are injected](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
 
 ### Better to have
 * https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree - To highlight todo!("Implement lines");
