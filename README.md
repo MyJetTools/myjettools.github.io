@@ -30,3 +30,15 @@ Then Visual studio code has to be packed with plugins:
 * https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory - working with git history;
 * https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph - other git tool;
 * https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio - to keep diagrams inside your project
+
+
+# When you develop
+
+if you code does not compule - before you go to blame person who updates library just try:
+
+* to delete target follder;
+* then execute
+```bash
+cargo update
+cargo build
+```
